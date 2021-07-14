@@ -85,7 +85,7 @@ For example::
 
 Get a single MR::
 
-    mr = project.mergerequests.get(mr_id)
+    mr = project.mergerequests.get(mr_iid)
 
 Create a MR::
 
